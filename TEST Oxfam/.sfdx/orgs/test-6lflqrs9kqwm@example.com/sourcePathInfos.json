@@ -1,0 +1,205 @@
+[
+    [
+        "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537848196162,
+            "changeTime": 1537848196162,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537848196164,
+            "changeTime": 1537848196164,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537848749373,
+            "changeTime": 1537848749373,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537848196166,
+            "changeTime": 1537848196166,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam",
+        {
+            "state": "n",
+            "sourcePath": "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537848327924,
+            "changeTime": 1537848327924,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default\\objects\\Test_object__c\\Test_object__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default\\objects\\Test_object__c\\Test_object__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2088,
+            "modifiedTime": 1537848749340,
+            "changeTime": 1537848749340,
+            "contentHash": "8ff93ab4e33cca3b1dc960edee0c3eb0d2a85ea8"
+        }
+    ],
+    [
+        "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default\\layouts\\Test_object__c-Test object Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default\\layouts\\Test_object__c-Test object Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1947,
+            "modifiedTime": 1537848749357,
+            "changeTime": 1537848749357,
+            "contentHash": "11d783040f4136795b5cfb29705ebffa45e29dff"
+        }
+    ],
+    [
+        "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18068,
+            "modifiedTime": 1537848749392,
+            "changeTime": 1537848749392,
+            "contentHash": "51424e829fdd19e8ceea4d1ab5631c7c4704783b"
+        }
+    ],
+    [
+        "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4652,
+            "modifiedTime": 1537848749408,
+            "changeTime": 1537848749408,
+            "contentHash": "3e7ef3d7bc8d75bb3a107f7e4c54b74c153bb3d3"
+        }
+    ],
+    [
+        "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4314,
+            "modifiedTime": 1537848749452,
+            "changeTime": 1537848749452,
+            "contentHash": "55f3b7398606a9e5535678ab34bf37e709f8dfc7"
+        }
+    ],
+    [
+        "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4314,
+            "modifiedTime": 1537848749471,
+            "changeTime": 1537848749471,
+            "contentHash": "55f3b7398606a9e5535678ab34bf37e709f8dfc7"
+        }
+    ],
+    [
+        "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default\\objects\\Test_object__c",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default\\objects\\Test_object__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537848749336,
+            "changeTime": 1537848749336,
+            "contentHash": "ab6627754cd0426aec8f7f8ee7721840e5ab0eb9"
+        }
+    ],
+    [
+        "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537848749333,
+            "changeTime": 1537848749333,
+            "contentHash": "d0ef291340373b044f4913c241d8914002a3fc3f"
+        }
+    ],
+    [
+        "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537848749353,
+            "changeTime": 1537848749353,
+            "contentHash": "002499fd83a6ff767d2e3dc782fbb60b58f3640f"
+        }
+    ],
+    [
+        "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\coducomble\\Documents\\Clients\\2. Oxfam\\2. Phase 1\\99. Oxfam Repository\\dx-trial\\TEST Oxfam\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1537848749466,
+            "changeTime": 1537848749466,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
